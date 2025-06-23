@@ -2,10 +2,6 @@ Hy Im Farel 👋
 
 ![FarelAjahh](img/Banner.png)
 ## <p align="Center">Saya adalah seorang developer yang baru saja memulai karir saya di bidang teknik, terutama di Teknik Informatika👨‍💻.</p>
-> Informatics Tech
-
-> [!NOTE]
-> Ready for hiring 🔧🪢
 
 ## 🛠️ What I Code With
 <p align="Center">
@@ -15,6 +11,11 @@ Hy Im Farel 👋
 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="60" />
 </p>
+
+> Informatics Tech
+
+> [!NOTE]
+> Ready for hiring 🔧🪢
 
 
 
