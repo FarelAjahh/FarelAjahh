@@ -8,16 +8,19 @@ Hy Im Farel 👋
 > Ready for hiring 🔧🪢
 
 ## 🛠️ What I Code With
-
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"  height="60" />
-
+</p>
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="60" />
-
+</p>
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="60" 
 />
-
+</p>
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="60" />
-
+</p>
 
 
 
