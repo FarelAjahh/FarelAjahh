@@ -1,7 +1,9 @@
-# Hi there Im Farel 👋
+Hy Im Farel 👋
 
-![FarelAjahh](img/Banner%20For%20GitHub.png)
+![FarelAjahh](img/Banner.png)
 ## Saya adalah seorang developer yang baru saja memulai karir saya di bidang teknik, terutama di Teknik Informatika.
+> Informatics Tech
+
 > [!NOTE]
 > Ready for hiring 🔧🪢
 
