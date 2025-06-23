@@ -1,7 +1,7 @@
 Hy Im Farel 👋
 
 ![FarelAjahh](img/Banner.png)
-## Saya adalah seorang developer yang baru saja memulai karir saya di bidang teknik, terutama di Teknik Informatika.
+## <p align="Center">Saya adalah seorang developer yang baru saja memulai karir saya di bidang teknik, terutama di Teknik Informatika👨‍💻.</p>
 > Informatics Tech
 
 > [!NOTE]
