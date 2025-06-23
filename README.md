@@ -8,7 +8,7 @@ Hy Im Farel 👋
 > Ready for hiring 🔧🪢
 
 ## 🛠️ What I Code With
-<p>
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"  height="60" />
 </p>
 <p>
