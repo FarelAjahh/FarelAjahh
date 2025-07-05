@@ -16,7 +16,7 @@ Let's connect and grow together! 🌱✨
 
 <p align="Center">
 
-<img src="python.png" height="40" />
+<img src="python.png" width=40 height=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" 
 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" />
