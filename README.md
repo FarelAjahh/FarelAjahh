@@ -12,10 +12,10 @@ Welcome to my GitHub! 🚀
 I'm passionate about learning and building cool things in **Informatics Engineering**.  
 Let's connect and grow together! 🌱✨
 
-## 🛠️ What I Code With
+## 🛠️ My Code Tool's
 
 <p align="Center">
-<img src="Canva.png" height="40">
+<img src="Canva.png" style="height:40;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" 
 />
